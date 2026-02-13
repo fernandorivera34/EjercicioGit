@@ -8,8 +8,7 @@ namespace EjercicioGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            // Inicializador proyecto
+            Console.WriteLine("Primera Commit");
         }
     }
 }
